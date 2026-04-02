@@ -25,7 +25,8 @@ The Flood Prediction System is a full-stack web application that predicts flood 
 ## 🔗 API Endpoint
 http://localhost:5000/api/floodprediction
 <img width="1900" height="373" alt="image" src="https://github.com/user-attachments/assets/456fcb68-3ce2-4452-b8e3-b3e0b0012f45" />
-<img width="1481" height="811" alt="image" src="https://github.com/user-attachments/assets/579a05fa-0b05-4f15-a6f2-65e4e87ff01d" />
+
+<img width="1352" height="805" alt="image" src="https://github.com/user-attachments/assets/cb3918a7-bd01-4bc8-bf09-34ea1fe0f2d5" />
 
 ## Backend Setup
 cd FloodPredictionBackend
